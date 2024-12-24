@@ -4,7 +4,7 @@ Submitted by: Swetha Sridaran
 
 The Background Color Changer is an app that randomly changes the background color of the application. 
 
-Time spent: 2.5 hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
