@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/w8AC2c0" data-context="false" ><a href="//imgur.com/a/w8AC2c0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
+![GIF](https://i.imgur.com/w8AC2c0.gif) 
 
 ## App Brainstorming (Step 4)
 - Duolingo: 
