@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-![My Awesome GIF that's not showing up on this readme](https://imgur.com/a/w8AC2c0)  
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/w8AC2c0" data-context="false" ><a href="//imgur.com/a/w8AC2c0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
 
 ## App Brainstorming (Step 4)
 - Duolingo: 
