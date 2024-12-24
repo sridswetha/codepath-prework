@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-![](https://i.imgur.com/w8AC2c0.gif)
+![](https://i.imgur.com/UwmGiGK.gif)
 ## App Brainstorming (Step 4)
 - Duolingo: 
   - i like how for each character there's a distinct voice to make learning interesting
