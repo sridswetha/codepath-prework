@@ -32,7 +32,7 @@ An app that I might wanna build: It can be frustrating to identify the song behi
 ## Notes
 
 - Had issues with connecting button to UI logic but resolved it after adding an IBOutlet an IBAction for the button
-- Had issues with displaying gif in readme (unresolved)
+- Had issues with displaying gif in readme (resolved, I had to click on image address from the image posted on imgur)
 
 
 ## License
