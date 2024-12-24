@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-![GIF](https://i.imgur.com/a/w8AC2c0.gif) 
+![https://imgur.com/a/w8AC2c0](https://i.imgur.com/w8AC2c0.gif)
 
 ## App Brainstorming (Step 4)
 - Duolingo: 
